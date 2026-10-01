@@ -31,7 +31,7 @@ Requires Python 3.8+, a webcam, and:
 ## Installation:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/filterdeck.git
+git clone https://github.com/VladislavBeer/filterdeck
 cd filterdeck
 python filterdeck.py
 ```
